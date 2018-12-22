@@ -1,10 +1,10 @@
 # Site settings
-title: LINHUAMING Blog
-SEOTitle: 吴川华仔的博客 | LINHUAMING Blog
+title: 吴川华仔博客 Blog
+SEOTitle: 吴川华仔博客 | LINHUAMING Blog
 header-img: img/post-bg-rwd.jpg
 email: 1057449102@qq.com
 description: "Every failure is leading towards success."
-keyword: "LINHUAMING, LINHUAMING Blog, 吴川华仔的博客, LINHUAMING, 林华明, java, 后台服务器端, web开发"
+keyword: "LINHUAMING, LINHUAMING Blog, 吴川华仔博客,linhuaming, 林华明, java, 后台服务器端, web开发"
 url: "http://linhuaming.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
