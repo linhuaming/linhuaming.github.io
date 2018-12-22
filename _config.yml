@@ -19,16 +19,14 @@ sidebar-avatar: /img/about-linhuaming.jpg      # use absolute URL, seeing it's u
 # SNS settings
 RSS: false
 
-
-
 github_username:    linhuaming
 jianshu_username:   00e68e2c68a5
-cnblogs_username:   linhuaming
-csdn_username:   qq_32424381
-zhihu_username:     wc_linhaming
+zhihu_username:     wc_linhuaming
 # weibo_username:     linhuaming
 #facebook_username:  linhuaming
 #twitter_username:   linhuaming
+#cnblogs_username:   linhuaming
+#csdn_username:   qq_32424381
 
 
 
