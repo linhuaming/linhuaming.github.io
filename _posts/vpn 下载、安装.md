@@ -1,3 +1,15 @@
+---
+layout:     post                    # 使用的布局（不需要改）
+title:      centos7 安装shadowsocks               # 标题 
+subtitle:   centos7 安装shadowsocks   #副标题
+date:       2023-08-01             # 时间
+author:     linhuaming                      # 作者
+header-img: img/post-java.jpg    #这篇文章标题背景图片
+catalog: true                       # 是否归档
+tags:                               #标签
+    - vpn
+---
+
 ## centos7 安装shadowsocks
 
 参考：
